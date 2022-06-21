@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?5873k');
-  src:  url('fonts/icomoon.eot?5873k#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?5873k') format('truetype'),
-    url('fonts/icomoon.woff?5873k') format('woff'),
-    url('fonts/icomoon.svg?5873k#icomoon') format('svg');
+  src:  url('https://raw.githubusercontent.com/EndyCat/EndyCat.github.io/main/icomoon/nablex/fonts/icomoon.eot?5873k');
+  src:  url('https://raw.githubusercontent.com/EndyCat/EndyCat.github.io/main/icomoon/nablex/fonts/icomoon.eot?5873k#iefix') format('embedded-opentype'),
+    url('https://raw.githubusercontent.com/EndyCat/EndyCat.github.io/main/icomoon/nablex/fonts/icomoon.ttf?5873k') format('truetype'),
+    url('https://raw.githubusercontent.com/EndyCat/EndyCat.github.io/main/icomoon/nablex/fonts/icomoon.woff?5873k') format('woff'),
+    url('https://raw.githubusercontent.com/EndyCat/EndyCat.github.io/main/icomoon/nablex/fonts/icomoon.svg?5873k#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
